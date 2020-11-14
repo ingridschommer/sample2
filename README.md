@@ -16,4 +16,5 @@ print("Nice to Meet you")
 [data](data)
 [references](references)
 
-![markdown-image](cute.jpg))
+![markdown-image](cute.jpg)
+
